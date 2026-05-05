@@ -1,0 +1,3 @@
+CREATE DATABASE DIMS_VVTAT_data
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_lithuanian_ci;
